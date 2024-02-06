@@ -1,4 +1,5 @@
 Doubly Linked List-Based Stack Implementation in Python
+
 This Python implementation provides a stack data structure based on a doubly linked list. A doubly linked list allows for efficient addition and removal of elements at the top of the stack, following the Last In, First Out (LIFO) principle.
 
 Node Class
@@ -38,12 +39,12 @@ Usage
 Import the classes:
 
 python
-Copy code
+
 from stack import Node, Stack
 Create an instance of the Stack class:
 
 python
-Copy code
+
 my_stack = Stack()
 Use the various methods:
 
